@@ -1,0 +1,15 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>About</title>
+  <link rel="Stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+<h1> About our Works </h1>
+<p> We are a team of scientists from various fields i.e. Physics, Biology, Chemistry, Computer Science, Statistics
+trying to solve our everyday problems and complex business issues using Machine Learning, Artificial Intelligence
+techniques.</p>
+<p> Various challenging problems include automatic drug discovary, driverless car, therapeutic drug targets for a 
+paricular disease, weather prediction, stock market price prediction are our area of interrest.
+</body>
+</html>
