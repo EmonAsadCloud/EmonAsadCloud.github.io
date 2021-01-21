@@ -10,3 +10,18 @@ body {
   background-color: violet;
   opacity: 0.85;
 }
+
+.contact {
+
+  position: absolute;
+  top: 25%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+}
+
+.contact h3{
+
+  color: rgb(0,0,250);
+  font-size: 20px;
+}
+
