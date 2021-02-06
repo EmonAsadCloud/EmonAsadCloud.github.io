@@ -11,12 +11,30 @@ body {
   background-color: lightblue;
 }
 
-.about {
 
+.about {
+ border-style: double;
+}
+
+.about h1{
+
+  font-size: 30px;
+  color: blue;
   position: absolute;
-  top: 15%;
-  left: 35%;
+  top: 5%;
+  left: 10%;
   transform: translate(-50%, -50%);
+}
+
+.about p{
+
+  color: rgb(255, 50, 20);
+  position: absolute;
+  font-size: 18px;
+  top: 28%;
+  left: 35%;
+  transform: translate(-35%, -40%);
+  
 }
 
 
